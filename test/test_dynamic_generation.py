@@ -110,7 +110,7 @@ def create_test_function(test_data, test_func, expected_keywords):
             f"Name {test_data['name']} not found in result"
         )
 
-        print(f"✓ Test passed for {test_data['type']} {test_data['name']}: {result}")
+        print(f"\n✓ Test passed for {test_data['type']} {test_data['name']}: {result}")
 
     return individual_test
 
