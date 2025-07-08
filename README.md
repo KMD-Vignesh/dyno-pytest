@@ -1,2 +1,3 @@
 # dyno-pytest
-dynamic pytest testcase framework
+
+dynamic pytest testcase frameworku
